@@ -1,0 +1,19 @@
+.container {
+  display: absolute;
+  display: inside;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  width: 600px;
+  height: 600px;
+  margin-left: 30%;
+  margin-top: 50px;
+  margin-right: 20%;
+  padding: 20px;
+  border: solid blue 5px;
+  background-color: rgb(14, 210, 171);
+}
+p { font-weight: 100;
+  font-size: 20px;
+
+}
